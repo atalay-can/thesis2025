@@ -1,1 +1,0 @@
-This thesis presents a procedural framework for building robustness-first approaches to exchange rate forecasting and is (one of) the first work(s) in the literature that focuses on classification based exchange rate forecasting using synthetic pairs in the cryptocurrency market.
